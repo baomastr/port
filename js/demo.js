@@ -8,8 +8,8 @@ document.addEventListener('DOMContentLoaded', function () {
     // dotColor: '#afbafc',
     // lineColor: '#6d77d0'
     density: 11000,
-    dotColor: '#000',
-    lineColor: '#fff'
+    dotColor: '#fff',
+    lineColor: '#000'
   });
   // var intro = document.getElementById('intro');
   // intro.style.marginTop = - intro.offsetHeight / 2 + 'px';
