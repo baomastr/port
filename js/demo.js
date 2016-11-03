@@ -5,8 +5,11 @@
 
 document.addEventListener('DOMContentLoaded', function () {
   particleground(document.getElementById('particles'), {
-    dotColor: '#afbafc',
-    lineColor: '#6d77d0'
+    // dotColor: '#afbafc',
+    // lineColor: '#6d77d0'
+    density: 11000,
+    dotColor: '#000',
+    lineColor: '#fff'
   });
   // var intro = document.getElementById('intro');
   // intro.style.marginTop = - intro.offsetHeight / 2 + 'px';
