@@ -74,6 +74,7 @@ body {
     position: relative;
     z-index: 2;
     background: rgba(0,0,0,.7);
+    overflow: hidden;
 }
 .site-wrapper-inner {
     display: table-cell;
@@ -152,7 +153,8 @@ body {
  */
 
 .cover {
-    padding: 0 20px;
+    /*padding: 0 20px;*/
+    padding: 0;
 }
 .cover .btn-lg {
     padding: 10px 20px;

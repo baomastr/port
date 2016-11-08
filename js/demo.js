@@ -15,6 +15,14 @@ document.addEventListener('DOMContentLoaded', function () {
   // intro.style.marginTop = - intro.offsetHeight / 2 + 'px';
 }, false);
 
+// document.addEventListener("DOMContentLoaded", function() {
+//   (function() {
+//     document.documentElement.className = 'js';
+//     var slideshow = new CircleSlideshow(document.getElementById('slideshow'));
+//   })();
+// });
+
+
 
 /*
 // jQuery plugin example:
