@@ -95,6 +95,7 @@
 	margin: -225px 0 0 -225px;
 	border-radius: 50%;
 	background: #fff;
+	/*opacity: .7;*/
 }
 
 .slide__title {
@@ -178,7 +179,7 @@
 	margin: 0 40px 40px 0;
 	color: #fff;
 	border-radius: 50%;
-	background: #6cd84e;
+	background: #000;
 	-webkit-transition: -webkit-transform 0.1s, background 0.1s, opacity 0.1s;
 	transition: transform 0.1s, background 0.1s, opacity 0.1s;
 	-webkit-transition-delay: 0.1s;
@@ -205,7 +206,8 @@
 	z-index: 1001;
 	top: 10px;
 	right: 15px;
-	color: #6cd84e;
+	color: #000;
+
 	-webkit-transition: -webkit-transform 0.1s, opacity 0.1s, color 0.1s;
 	transition: transform 0.1s, opacity 0.1s, color 0.1s;
 }
@@ -283,7 +285,7 @@
 	color: #fff;
 	border: none;
 	border-radius: 2px;
-	background: #6cd84e;
+	background: #000;
 }
 
 .button:focus,
