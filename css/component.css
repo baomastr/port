@@ -147,7 +147,8 @@
 }
 
 .slide__img--small {
-	max-height: 80%;
+	/*max-height: 80%;*/
+	max-width: 80%;
 }
 
 .slide__img--large {
