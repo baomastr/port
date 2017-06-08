@@ -116,7 +116,15 @@
 .slide__inner--forum {
 	background-image: url(https://baomastr.github.io/www/img/logo.png);
 }
-
+.slide__inner--email {
+	background-image: url(../img/shakes_logo.png);
+}
+.slide__inner--apcmed {
+	background-image: url(https://baomastr.gitlab.io/apcmed-prod/images/logo.png);
+}
+.slide__inner--artsound {
+	background-image: url(https://baomastr.github.io/artSound/img/logo.png);
+}
 .ch-info {
 	/*position: absolute;*/
 	background: rgba(0, 0, 0, 0.8);
