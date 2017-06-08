@@ -124,6 +124,8 @@
 }
 .slide__inner--artsound {
 	background-image: url(https://baomastr.github.io/artSound/img/logo.png);
+	-webkit-background-size: 80%;
+	background-size: 80%;
 }
 .ch-info {
 	/*position: absolute;*/
