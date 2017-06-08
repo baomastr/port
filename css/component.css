@@ -392,6 +392,8 @@
 	}
 	.slide__img--large {
 		margin: 0 auto 2em;
+		max-width: 100%;
+		height: auto;
 	}
 	.slide__title--preview,
 	.slide__title--main {
