@@ -127,6 +127,11 @@
 	-webkit-background-size: 80%;
 	background-size: 80%;
 }
+.slide__inner--clinic {
+	background-image: url(https://baomastr.github.io/artSound/img/clinic.png);
+	-webkit-background-size: 80%;
+	background-size: 80%;
+}
 .ch-info {
 	/*position: absolute;*/
 	background: rgba(0, 0, 0, 0.8);
