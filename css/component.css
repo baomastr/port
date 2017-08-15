@@ -129,8 +129,8 @@
 }
 .slide__inner--clinic {
 	background-image: url(../img/clinic.png);
-	-webkit-background-size: 80%;
-	background-size: 80%;
+	-webkit-background-size: 50%;
+	background-size: 50%;
 }
 .ch-info {
 	/*position: absolute;*/
